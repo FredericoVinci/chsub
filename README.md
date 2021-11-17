@@ -16,3 +16,5 @@
 - fix images on feed AND on channels page
 
 - ??? 
+
+- profit
